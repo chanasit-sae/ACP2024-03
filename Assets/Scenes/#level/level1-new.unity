@@ -19061,9 +19061,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waypoints:
-  - {fileID: 1431373287}
-  - {fileID: 1021223227}
-  - {fileID: 1227849282}
+  - {fileID: 766503848}
+  - {fileID: 1541656083}
+  - {fileID: 670563210}
   speed: 2
   player: {fileID: 1781403778}
   attackBox: {fileID: 0}
@@ -26238,9 +26238,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waypoints:
-  - {fileID: 1431373287}
-  - {fileID: 1021223227}
-  - {fileID: 1227849282}
+  - {fileID: 766503848}
+  - {fileID: 1541656083}
+  - {fileID: 670563210}
   speed: 2
   player: {fileID: 1781403778}
   attackBox: {fileID: 0}

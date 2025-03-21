@@ -34,6 +34,8 @@ public class MainMenu : MonoBehaviour
     }
     public void Play() 
     {
+        gameController.Instance.stage = 1;
+        gameController.Instance.score = 0;
         SceneManager.LoadScene(nextScene); //add game scene here boi
         if (MusicManager.Instance != null)
         {
